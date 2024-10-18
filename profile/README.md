@@ -28,7 +28,7 @@ As a network of ecologists, physiologists and computer scientists working togeth
     <td>IRD, Marbec, University of Montpellier, France</td>
   </tr>
   <tr>
-    <td>Bruno ERNANDES</td>
+    <td>Bruno ERNANDE</td>
     <td>IFREMER, France</td>
   </tr>
   <tr>
