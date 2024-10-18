@@ -2,7 +2,7 @@
 
 > The research project **FARsex** was selected from the [2023 DataSHARE Call](https://www.fondationbiodiversite.fr/en/calls/call-for-proposals-datashare-2023/) by the Centre for the Synthesis and Analysis of Biodiversity ([CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)) of the French Foundation for Biodiversity Research ([FRB](https://www.fondationbiodiversite.fr/en/)).
 
-As a network of ecologists, physiologists and computer scientists working together, we will build a **dataset at the global scale by assembling, harmonizing, and distributing published and unpublished data on the ASR of ectotherms belonging to teleost fishes, amphibians, crocodiles, turtles, and squamate reptiles**, complemented by a wide range of metadata – methodological and environmental information (mainly temperature).
+As a network of ecologists, physiologists and computer scientists working together, we will build a **dataset at the global scale by assembling, harmonizing, and distributing published and unpublished data on the Adult sex-ratio (ASR) of ectotherms belonging to teleost fishes, amphibians, crocodiles, turtles, and squamate reptiles**, complemented by a wide range of additional data – methodological and environmental information (mainly temperature).
 
 **FARsex** is led by [**Veronika BOKONY**](https://evolecol.hu/people/veronika-bokony/) (HUN-REN Centre for Agricultural Research, Hungary) and [**Benjamin GEFFROY**](https://www.benjamingeffroy.com/) (IFREMER, Marbec, University of Montpellier, France) and include:
 
